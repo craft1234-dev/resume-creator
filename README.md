@@ -1,13 +1,11 @@
-# Svelte Resume Builder
-100% free resume builder using and demonstrating the power of SvelteJS
-
-![My Image](https://raw.github.com/johndavedecano/svelte-resume-builder/master/preview.png)
+# Svelte Resume Creator
+100% free resume creator using and demonstrating the power of SvelteJS
 
 ## Install
 
 ```
-git clone git@github.com:johndavedecano/svelte-resume-builder.git
-cd svelte-resume-builder
+git clone git@github.com:craft1234-dev/resume-creator.git
+cd resume-creator
 npm i
 npm run dev
 ```
